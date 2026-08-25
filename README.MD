@@ -1,1 +1,1 @@
-ola xd jsjs
+Este será el repositorio donde se subirá todo el material correspondiente a la asignatura, para ambas secciones.
